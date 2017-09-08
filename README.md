@@ -5,18 +5,4 @@ For installation and usage, read the comments in cool_gpu.
 
 # 服务器无桌面动态调节GPU风扇速度
 
-```
-git clone https://github.com/liqiang311/set-gpu-fans.git
-cp -r $PWD/set-gpu-fans /opt
-apt-get update
-apt-get install -y xinit
-service lightdm stop
-cd /opt/set-gpu-fans
-chmod +x cool_gpu
-chmod +x nvscmd
-./cool_gpu > controller.log 2>&1 &
-```
-
-参考:
-
-http://www.jianshu.com/p/ab956df5e40c
+详见：[http://www.liqiang311.com/2017/09/adjust-gpu-fans/](http://www.liqiang311.com/2017/09/adjust-gpu-fans/)
