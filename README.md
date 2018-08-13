@@ -5,4 +5,4 @@ For installation and usage, read the comments in cool_gpu.
 
 # 服务器无桌面动态调节GPU风扇速度
 
-详见：[https://www.jianshu.com/p/7ab6216b1fa7](https://www.jianshu.com/p/7ab6216b1fa7)
+详见：[https://blog.csdn.net/QiangLi_strong/article/details/80760958](https://blog.csdn.net/QiangLi_strong/article/details/80760958)
